@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tubeskita</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="market">Market</string>
+    <string name="school">School</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="hospital">Hospital</string>
+</resources>
